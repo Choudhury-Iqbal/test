@@ -31,7 +31,7 @@
 
 	b. Next  run the following command 
 	
-    SETX  /M  PATH "%PATH%;C:\Users\Choudhury Iqbal\AppData\Local\Programs\Python\Python310	
+    SETX  /M  PATH "%PATH%;C:\Users\Your Name\AppData\Local\Programs\Python\Python310\Scripts"	
 
    c. Restart your IDE.
 
